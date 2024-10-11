@@ -22,7 +22,7 @@ $ npm install
 $ cd frontend
 $ npm install
 ```
-- Create a `.env` file in the backend directory and add your moralis `api-key`
+- Create a `.env` file in the backend directory and add your moralis `api-key`: https://admin.moralis.com/register
 ```
 API_KEY = smajhbbxhsjsjiuhsx
 ```
